@@ -18,7 +18,10 @@ This project was started using:
 #### /01 - (Java) Primeiros Passos
 Basic Java Concepts
 
-#### /02 - Introdução à Orientação a Objetos
-Object-oriented concepts
+#### /02 - (Java) Introdução à Orientação a Objetos
+Object-Oriented Concepts
+
+#### /03 - (Java) Entendendo herança e interface
+Object-Oriented Interfaces and Inheritance 
 
 </div>
