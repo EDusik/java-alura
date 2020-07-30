@@ -21,7 +21,7 @@ Basic Java Concepts
 #### /02 - (Java) Introdução à Orientação a Objetos
 Object-Oriented Concepts
 
-#### /03 - (Java) Entendendo herança e interface
+#### /03 - (Java) Entendendo Herança e Interface
 Object-Oriented Interfaces and Inheritance 
 
 </div>
