@@ -8,7 +8,7 @@ These projects was based on the Alura Java course that you can find <a target="_
 <div id="tecnologies">
 
 ## :rocket: Technologies
-This project was started using:
+This project uses these technologies:
 - [Java](https://www.java.com/pt_BR/download/)
 </div>
 
