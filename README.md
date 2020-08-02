@@ -24,7 +24,7 @@ Object-Oriented Concepts
 #### /03 - (Java) Entendendo Herança e Interface
 Object-Oriented Interfaces and Inheritance 
 
-#### /04 - (Java) Entendendo exceções
+#### /04 - (Java) Entendendo Exceções
 Java Exceptions
 
 </div>
