@@ -5,7 +5,7 @@ public class Fluxo {
         try {
         	metodo1();        
         } 
-        catch(ArithmeticException | NullPointerException e) {
+        catch(Exception e) {
 	    	// String msg = e.getMessage();
 	    	// System.out.println(msg);
         	String msg = e.getMessage();
@@ -16,15 +16,15 @@ public class Fluxo {
         System.out.println("Fim do main");
     }
 
-    private static void metodo1() {
+    private static void metodo1() throws MinhaExcecao {
         System.out.println("Ini do metodo 1");
         metodo2();
         System.out.println("Fim do metodo 1");
     }
 
-    private static void metodo2() {
+    private static void metodo2() throws MinhaExcecao {
         System.out.println("Ini do metodo 2");
-        throw new ArithmeticException("Deu Errado");
+        throw new MinhaExcecao("Deu Errado");
         // System.out.println("Fim do metodo 2");
     }
 }
