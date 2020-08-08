@@ -27,4 +27,7 @@ Object-Oriented Interfaces and Inheritance
 #### /04 - (Java) Entendendo Exceções
 Java Exceptions
 
+#### /05 - (Eclipse) Produtividade Extrema na IDE com Java
+Eclipse IDE
+
 </div>
